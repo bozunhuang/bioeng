@@ -1,6 +1,6 @@
-package net.examplemod.mixin;
+package net.bioeng.mixin;
 
-import net.examplemod.ExampleMod;
+import net.bioeng.ExampleMod;
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

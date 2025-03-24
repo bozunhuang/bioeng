@@ -1,4 +1,4 @@
-package net.examplemod;
+package net.bioeng;
 
 import com.simibubi.create.foundation.data.CreateRegistrate;
 import com.tterrag.registrate.util.entry.BlockEntry;

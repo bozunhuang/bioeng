@@ -1,8 +1,8 @@
-package net.examplemod.fabric;
+package net.bioeng.fabric;
 
 import io.github.fabricators_of_create.porting_lib.util.EnvExecutor;
-import net.examplemod.ExampleBlocks;
-import net.examplemod.ExampleMod;
+import net.bioeng.ExampleBlocks;
+import net.bioeng.ExampleMod;
 import net.fabricmc.api.ModInitializer;
 
 public class ExampleModFabric implements ModInitializer {

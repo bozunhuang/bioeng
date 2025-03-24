@@ -4,30 +4,30 @@ loaderVersion = "[${forge_version},)"
 license = "Insert License Here"
 
 [[mods]]
-modId = "examplemod"
+modId = "bioeng"
 version = "${version}"
-displayName = "Example Mod"
+displayName = "BioEngineering"
 authors = "Me!"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+This is a biotech-themed addon for Create
 '''
 logoFile = "icon.png"
 
-[[dependencies.examplemod]]
+[[dependencies.bioeng]]
 modId = "forge"
 mandatory = true
 versionRange = "[${forge_version},)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.bioeng]]
 modId = "minecraft"
 mandatory = true
 versionRange = "${minecraft_version}"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.examplemod]]
+[[dependencies.bioeng]]
 modId="create"
 mandatory=true
 versionRange="${create_version}"

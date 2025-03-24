@@ -1,4 +1,4 @@
-package net.examplemod;
+package net.bioeng;
 
 import dev.architectury.injectables.annotations.ExpectPlatform;
 

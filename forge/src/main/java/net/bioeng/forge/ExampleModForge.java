@@ -1,7 +1,7 @@
-package net.examplemod.forge;
+package net.bioeng.forge;
 
-import net.examplemod.ExampleBlocks;
-import net.examplemod.ExampleMod;
+import net.bioeng.ExampleBlocks;
+import net.bioeng.ExampleMod;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
